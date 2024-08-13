@@ -251,20 +251,26 @@ CGTN,http://58.41.27.144:18888/rtp/239.45.1.194:5140
 
 
 YSP,#genre#
-CCTV4K,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
-CCTV8K,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-CCTV16K,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024083703.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
-CCTV1,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+CCTV4K,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
+CCTV4K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
+CCTV8K,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV8K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV16K,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+CCTV16K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+CCTV1,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+CCTV1,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
 CCTV2,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
 CCTV3,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
 CCTV4,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
 CCTV5,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
-CCTV5+,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-CCTV6HD,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8#http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202#http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+CCTV5+,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+CCTV5+,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV6.http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6.http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV7,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
 CCTV8,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
-CCTV9,
-http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
+CCTV9,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
 CCTV10,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
 CCTV11,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
 CCTV12,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
@@ -275,7 +281,9 @@ CCTV16,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
 CCTV17,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 CCTV兵器科技,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
-CCTV第一剧场,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8#http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
+CCTV第一剧场,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8#
+CCTV第一剧场,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8#
+CCTV第一剧场,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
 CCTV怀旧剧场,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
 CCTV风云剧场,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
 CCTV风云音乐,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
