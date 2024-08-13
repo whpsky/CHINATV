@@ -266,8 +266,8 @@ CCTV5,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
 CCTV5+,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
 CCTV5+,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV6.http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-CCTV6.http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV7,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
 CCTV8,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
 CCTV9,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
