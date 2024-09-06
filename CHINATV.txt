@@ -27,7 +27,6 @@
 
 
 央视卫视,#genre#
-CCTV16-4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
 CCTV1,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002133/1.m3u8
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
