@@ -1,8 +1,4 @@
 ﻿上海,#genre#
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk@http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 东方卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000301
 东方卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000352
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8
@@ -39,6 +35,20 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 七彩戏剧,http://116.233.34.25:7777/tsfile/live/1034_1.m3u8
 法治天地,http://116.233.34.25:7777/tsfile/live/1035_1.m3u8
 金色学堂,http://116.233.34.25:7777/tsfile/live/1036_1.m3u8
+五星体育，http://cs.iptviptv.site:9694/hls/150/index.m3u8
+新闻综合，http://cs.iptviptv.site:9694/hls/151/index.m3u8
+东方财经，http://cs.iptviptv.site:9694/hls/152/index.m3u8
+第一财经，http://cs.iptviptv.site:9694/hls/153/index.m3u8
+法治天地，http://cs.iptviptv.site:9694/hls/154/index.m3u8
+都市频道，http://cs.iptviptv.site:9694/hls/155/index.m3u8
+东方影视，http://cs.iptviptv.site:9694/hls/156/index.m3u8
+上海教育，http://cs.iptviptv.site:9694/hls/157/index.m3u8
+七彩戏剧，http://cs.iptviptv.site:9694/hls/158/index.m3u8
+金色学堂，http://cs.iptviptv.site:9694/hls/159/index.m3u8
+重温经典，http://cs.iptviptv.site:9694/hls/716/index.m3u8
+新视觉，http://cs.iptviptv.site:9694/hls/717/index.m3u8
+劲爆体育，http://cs.iptviptv.site:9694/hls/718/index.m3u8
+魅力足球，http://cs.iptviptv.site:9694/hls/719/index.m3u8
 
 央视卫视,#genre#
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
@@ -66,8 +76,6 @@ CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV16,http://[2409:8087:1a0b:df::4017]/wh7f454c46tw1994395841_-1295136134/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 东方卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
 四川卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000330/index.m3u8?IAS
@@ -100,9 +108,38 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 
+国际,#genre#
+凤凰资讯,http://cs.iptviptv.site:9694/hls/732/index.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://cs.iptviptv.site:9694/hls/731/index.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://cs.iptviptv.site:9694/hls/730/index.m3u8
+V音乐台，http://cs.iptviptv.site:9694/hls/1000/index.m3u8
+HBO，http://cs.iptviptv.site:9694/hls/1001/index.m3u8
+今日俄罗斯，http://cs.iptviptv.site:9694/hls/1003/index.m3u8
+日本NHK，http://cs.iptviptv.site:9694/hls/1004/index.m3u8
+韩国KBS，http://cs.iptviptv.site:9694/hls/1005/index.m3u8
+翡翠台(广电)，http://cs.iptviptv.site:9694/hls/99/index.m3u8
+明珠台，http://cs.iptviptv.site:9694/hls/103/index.m3u8
+翡翠台(原版)，http://cs.iptviptv.site:9694/hls/98/index.m3u8
+千禧经典台，http://cs.iptviptv.site:9694/hls/901/index.m3u8
+翡翠台4k，http://cs.iptviptv.site:9694/hls/902/index.m3u8
+Animax，http://cs.iptviptv.site:9694/hls/903/index.m3u8
+美亚电影台，http://cs.iptviptv.site:9694/hls/904/index.m3u8
+TVB PLUS，http://cs.iptviptv.site:9694/hls/905/index.m3u8
+无线新闻台，http://cs.iptviptv.site:9694/hls/906/index.m3u8
+天映經典頻道，http://cs.iptviptv.site:9694/hls/914/index.m3u8
+黃金翡翠台，http://cs.iptviptv.site:9694/hls/916/index.m3u8
+
+
 
 
 IHOT,#genre#
+CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
