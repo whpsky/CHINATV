@@ -41,12 +41,7 @@
 新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8
 劲爆体育,http://avd.iptviptv.site:9694/hls/718/index.m3u8
 魅力足球,http://avd.iptviptv.site:9694/hls/719/index.m3u8
-北京体育,http://avd.iptviptv.site:9694/hls/800/index.m3u8
-淘电影,http://avd.iptviptv.site:9694/hls/801/index.m3u8
-淘剧场,http://avd.iptviptv.site:9694/hls/802/index.m3u8
-淘娱乐,http://avd.iptviptv.site:9694/hls/803/index.m3u8
-淘baby,http://avd.iptviptv.site:9694/hls/804/index.m3u8
-淘精彩,http://avd.iptviptv.site:9694/hls/805/index.m3u8
+
 
 央视卫视,#genre#
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
@@ -115,12 +110,11 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
 凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
-凤凰资询,http://avd.iptviptv.site:9694/hls/732/index.m3u8
+凤凰资讯,http://avd.iptviptv.site:9694/hls/732/index.m3u8
 V音乐台,http://avd.iptviptv.site:9694/hls/1000/index.m3u8
 HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
 今日俄罗斯,http://avd.iptviptv.site:9694/hls/1003/index.m3u8
 日本NHK,http://avd.iptviptv.site:9694/hls/1004/index.m3u8
-韩国KBS,http://avd.iptviptv.site:9694/hls/1005/index.m3u8
 翡翠台(广电),http://avd.iptviptv.site:9694/hls/99/index.m3u8
 明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
 翡翠台(原版),http://avd.iptviptv.site:9694/hls/98/index.m3u8
