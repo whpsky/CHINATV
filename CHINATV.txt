@@ -246,30 +246,9 @@ CCTV-17,http://117.161.133.51:81/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
 海南卫视,http://117.161.133.51:81/gitv_live/LYWS/LYWS.m3u8
 
 国际,#genre#
-凤凰资讯,http://cs.iptviptv.site:9694/hls/732/index.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,http://cs.iptviptv.site:9694/hls/731/index.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://cs.iptviptv.site:9694/hls/730/index.m3u8
-V音乐台，http://cs.iptviptv.site:9694/hls/1000/index.m3u8
-HBO，http://cs.iptviptv.site:9694/hls/1001/index.m3u8
-今日俄罗斯，http://cs.iptviptv.site:9694/hls/1003/index.m3u8
-日本NHK，http://cs.iptviptv.site:9694/hls/1004/index.m3u8
-韩国KBS，http://cs.iptviptv.site:9694/hls/1005/index.m3u8
-翡翠台(广电)，http://cs.iptviptv.site:9694/hls/99/index.m3u8
-明珠台，http://cs.iptviptv.site:9694/hls/103/index.m3u8
-翡翠台(原版)，http://cs.iptviptv.site:9694/hls/98/index.m3u8
-千禧经典台，http://cs.iptviptv.site:9694/hls/901/index.m3u8
-翡翠台4k，http://cs.iptviptv.site:9694/hls/902/index.m3u8
-Animax，http://cs.iptviptv.site:9694/hls/903/index.m3u8
-美亚电影台，http://cs.iptviptv.site:9694/hls/904/index.m3u8
-TVB PLUS，http://cs.iptviptv.site:9694/hls/905/index.m3u8
-无线新闻台，http://cs.iptviptv.site:9694/hls/906/index.m3u8
-天映經典頻道，http://cs.iptviptv.site:9694/hls/914/index.m3u8
-黃金翡翠台，http://cs.iptviptv.site:9694/hls/916/index.m3u8
-
 
 
 
