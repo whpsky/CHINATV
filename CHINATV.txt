@@ -27,20 +27,7 @@
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-五星体育,http://ss.iptviptv.site:9694/hls/150/index.m3u8
-新闻综合,http://ss.iptviptv.site:9694/hls/151/index.m3u8
-东方财经,http://ss.iptviptv.site:9694/hls/152/index.m3u8
-第一财经,http://ss.iptviptv.site:9694/hls/153/index.m3u8
-法治天地,http://ss.iptviptv.site:9694/hls/154/index.m3u8
-都市频道,http://ss.iptviptv.site:9694/hls/155/index.m3u8
-东方影视,http://ss.iptviptv.site:9694/hls/156/index.m3u8
-上海教育,http://ss.iptviptv.site:9694/hls/157/index.m3u8
-七彩戏剧,http://ss.iptviptv.site:9694/hls/158/index.m3u8
-金色学堂,http://ss.iptviptv.site:9694/hls/159/index.m3u8
-重温经典,http://ss.iptviptv.site:9694/hls/716/index.m3u8
-新视觉,http://ss.iptviptv.site:9694/hls/717/index.m3u8
-劲爆体育,http://ss.iptviptv.site:9694/hls/718/index.m3u8
-魅力足球,http://ss.iptviptv.site:9694/hls/719/index.m3u8
+
 
 央视卫视,#genre#
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
