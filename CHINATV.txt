@@ -27,7 +27,26 @@
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
+五星体育,http://avd.iptviptv.site:9694/hls/150/index.m3u8
+新闻综合,http://avd.iptviptv.site:9694/hls/151/index.m3u8
+东方财经,http://avd.iptviptv.site:9694/hls/152/index.m3u8
+第一财经,http://avd.iptviptv.site:9694/hls/153/index.m3u8
+法治天地,http://avd.iptviptv.site:9694/hls/154/index.m3u8
+都市频道,http://avd.iptviptv.site:9694/hls/155/index.m3u8
+东方影视,http://avd.iptviptv.site:9694/hls/156/index.m3u8
+上海教育,http://avd.iptviptv.site:9694/hls/157/index.m3u8
+七彩戏剧,http://avd.iptviptv.site:9694/hls/158/index.m3u8
+金色学堂,http://avd.iptviptv.site:9694/hls/159/index.m3u8
+重温经典,http://avd.iptviptv.site:9694/hls/716/index.m3u8
+新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8
+劲爆体育,http://avd.iptviptv.site:9694/hls/718/index.m3u8
+魅力足球,http://avd.iptviptv.site:9694/hls/719/index.m3u8
+北京体育,http://avd.iptviptv.site:9694/hls/800/index.m3u8
+淘电影,http://avd.iptviptv.site:9694/hls/801/index.m3u8
+淘剧场,http://avd.iptviptv.site:9694/hls/802/index.m3u8
+淘娱乐,http://avd.iptviptv.site:9694/hls/803/index.m3u8
+淘baby,http://avd.iptviptv.site:9694/hls/804/index.m3u8
+淘精彩,http://avd.iptviptv.site:9694/hls/805/index.m3u8
 
 央视卫视,#genre#
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
@@ -94,7 +113,25 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-
+凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
+凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
+凤凰资询,http://avd.iptviptv.site:9694/hls/732/index.m3u8
+V音乐台,http://avd.iptviptv.site:9694/hls/1000/index.m3u8
+HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
+今日俄罗斯,http://avd.iptviptv.site:9694/hls/1003/index.m3u8
+日本NHK,http://avd.iptviptv.site:9694/hls/1004/index.m3u8
+韩国KBS,http://avd.iptviptv.site:9694/hls/1005/index.m3u8
+翡翠台(广电),http://avd.iptviptv.site:9694/hls/99/index.m3u8
+明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
+翡翠台(原版),http://avd.iptviptv.site:9694/hls/98/index.m3u8
+千禧经典台,http://avd.iptviptv.site:9694/hls/901/index.m3u8
+翡翠台4k,http://avd.iptviptv.site:9694/hls/902/index.m3u8
+Animax,http://avd.iptviptv.site:9694/hls/903/index.m3u8
+美亚电影台,http://avd.iptviptv.site:9694/hls/904/index.m3u8
+TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
+无线新闻台,http://avd.iptviptv.site:9694/hls/906/index.m3u8
+天映經典頻道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
+黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
 
 
 IHOT,#genre#
