@@ -256,6 +256,163 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/ind
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
+
+#EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="百事通",欢笑剧场-4K
+http://47.102.200.34:18081/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="百事通",欢笑剧场
+http://47.102.200.34:18081/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="百事通新闻" tvg-name="百事通新闻" tvg-logo="https://epg.v1.mk/logo/百事通新闻.png" group-title="百事通",百事通新闻
+http://47.102.200.34:18081/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="百事通都市" tvg-name="百事通都市" tvg-logo="https://epg.v1.mk/logo/百事通都市.png" group-title="百事通",百事通都市
+http://47.102.200.34:18081/live/program/live/dshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="百事通外语" tvg-name="百事通外语" tvg-logo="https://epg.v1.mk/logo/百事通外语.png" group-title="百事通",百事通外语
+http://47.102.200.34:18081/live/program/live/icshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="百事通教育" tvg-name="百事通教育" tvg-logo="https://epg.v1.mk/logo/百事通教育.png" group-title="百事通",百事通教育
+http://47.102.200.34:18081/live/program/live/setvhd/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="百事通",五星体育
+http://47.102.200.34:18081/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="百事通",劲爆体育
+http://47.102.200.34:18081/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="百事通",魅力足球
+http://47.102.200.34:18081/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="百事通新视觉" tvg-name="百事通新视觉" tvg-logo="https://epg.v1.mk/logo/百事通新视觉.png" group-title="百事通",新视觉台
+http://47.102.200.34:18081/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.v1.mk/logo/七彩戏剧.png" group-title="百事通",七彩戏剧
+http://47.102.200.34:18081/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://epg.v1.mk/logo/华语影院.png" group-title="百事通",华语影院
+http://47.102.200.34:18081/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="星光影迷频道" tvg-name="星光影迷频道" tvg-logo="https://epg.v1.mk/logo/星光影迷频道.png" group-title="百事通",星光影院
+http://47.102.200.34:18081/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.v1.mk/logo/全球大片.png" group-title="百事通",全球大片
+http://47.102.200.34:18081/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://epg.v1.mk/logo/谍战剧场.png" group-title="百事通",谍战剧场
+http://47.102.200.34:18081/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="热门剧场专区" tvg-name="热门剧场专区" tvg-logo="https://epg.v1.mk/logo/热门剧场专区.png" group-title="百事通",热门剧场
+http://47.102.200.34:18081/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://epg.v1.mk/logo/戏曲精选.png" group-title="百事通",戏曲精选
+http://47.102.200.34:18081/live/program/live/xqjx8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="青春动漫专区" tvg-name="青春动漫专区" tvg-logo="https://epg.v1.mk/logo/青春动漫专区.png" group-title="百事通",青春动漫
+http://47.102.200.34:18081/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="宝宝动画高清专区" tvg-name="宝宝动画高清专区" tvg-logo="https://epg.v1.mk/logo/宝宝动画高清专区.png" group-title="百事通",宝宝动画
+http://47.102.200.34:18081/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="热门综艺高清专区" tvg-name="热门综艺高清专区" tvg-logo="https://epg.v1.mk/logo/热门综艺高清专区.png" group-title="百事通",热门综艺
+http://47.102.200.34:18081/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv-卫生健康" tvg-name="cctv-卫生健康" tvg-logo="https://epg.v1.mk/logo/cctv-卫生健康.png" group-title="百事通",健康养生
+http://47.102.200.34:18081/live/program/live/jkys8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="bestv百视通" tvg-name="bestv百视通" tvg-logo="https://epg.v1.mk/logo/bestv百视通.png" group-title="百事通",百变课堂
+http://47.102.200.34:18081/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.v1.mk/logo/电竞天堂.png" group-title="百事通",电竞天堂
+http://47.102.200.34:18081/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.v1.mk/logo/HD看电影.png" group-title="百事通",看天下精选
+http://47.102.200.34:18081/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="百事通全纪实" tvg-name="百事通全纪实" tvg-logo="https://epg.v1.mk/logo/百事通全纪实.png" group-title="百事通",全纪实台
+http://47.102.200.34:18081/live/program/live/qjshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="百事通",动漫秀场
+http://47.102.200.34:18081/live/program/live/dmxc8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="百事通",哈哈炫动
+http://47.102.200.34:18081/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="百事通",东方财经
+http://47.102.200.34:18081/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="百事通",第一财经
+http://47.102.200.34:18081/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="百事通纪实" tvg-name="百事通纪实" tvg-logo="https://epg.v1.mk/logo/百事通纪实.png" group-title="百事通",百事通纪实
+http://47.102.200.34:18081/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="百事通",金色学堂
+http://47.102.200.34:18081/live/program/live/jingsepd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="百事通",法治天地
+http://47.102.200.34:18081/live/program/live/fztd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="百事通",CCTV1
+http://47.102.200.34:18081/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="百事通",CCTV2
+http://47.102.200.34:18081/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="百事通",CCTV3
+http://47.102.200.34:18081/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="百事通",CCTV4
+http://47.102.200.34:18081/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="百事通",CCTV5
+http://47.102.200.34:18081/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="百事通",CCTV5+
+http://47.102.200.34:18081/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="百事通",CCTV6
+http://47.102.200.34:18081/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="百事通",CCTV7
+http://47.102.200.34:18081/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="百事通",CCTV8
+http://47.102.200.34:18081/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="百事通",CCTV9
+http://47.102.200.34:18081/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="百事通",CCTV10
+http://47.102.200.34:18081/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="百事通",CCTV11
+http://47.102.200.34:18081/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="百事通",CCTV12
+http://47.102.200.34:18081/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="百事通",CCTV13
+http://47.102.200.34:18081/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="百事通",CCTV14
+http://47.102.200.34:18081/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="百事通",CCTV15
+http://47.102.200.34:18081/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="百事通",CCTV16
+http://47.102.200.34:18081/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="百事通",CCTV16-4K
+http://47.102.200.34:18081/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="百事通",CCTV17
+http://47.102.200.34:18081/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="百事通",东南卫视
+http://47.102.200.34:18081/live/program/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="百事通",东方卫视
+http://47.102.200.34:1808/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="百事通",东方卫视
+http://47.102.200.34:18081/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="百事通",北京卫视
+http://47.102.200.34:18081/live/program/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="百事通",天津卫视
+http://47.102.200.34:18081/live/program/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="百事通",安徽卫视
+http://47.102.200.34:18081/live/program/live/ahwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="百事通",山东卫视
+http://47.102.200.34:18081/live/program/live/sdws8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="百事通",广东卫视
+http://47.102.200.34:18081/live/program/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="百事通",江苏卫视
+http://47.102.200.34:18081/live/program/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="百事通",浙江卫视
+http://47.102.200.34:18081/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="百事通",辽宁卫视
+http://47.102.200.34:18081/live/program/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="百事通",深圳卫视
+http://47.102.200.34:18081/live/program/live/szwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="百事通",河北卫视
+http://47.102.200.34:18081/live/program/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="百事通",云南卫视
+http://47.102.200.34:1808/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="百事通",河南卫视
+http://47.102.200.34:18081/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="百事通",贵州卫视
+http://47.102.200.34:18081/live/program/live/gzwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="百事通",吉林卫视
+http://47.102.200.34:18081/live/program/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="百事通",广西卫视
+http://47.102.200.34:18081/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="百事通",甘肃卫视
+http://47.102.200.34:18081/live/program/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="百事通",海南卫视
+http://47.102.200.34:18081/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="百事通",湖南卫视
+http://47.102.200.34:18081/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="百事通",湖北卫视
+http://47.102.200.34:18081/live/program/live/hubeiws8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="百事通",四川卫视
+http://47.102.200.34:18081/live/program/live/scws8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="百事通",重庆卫视
+http://47.102.200.34:18081/live/program/live/cqws8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="百事通",三沙卫视
+http://47.102.200.34:18081/live/program/live/sswshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="百事通",黑龙江卫视
+http://47.102.200.34:18081/live/program/live/hljwshd8m/8000000/mnf.m3u8
+
+
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="IHOT",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="IHOT",黑莓电影
