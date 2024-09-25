@@ -125,7 +125,23 @@ http://avd.iptviptv.site:9694/hls/906/index.m3u8
 http://avd.iptviptv.site:9694/hls/914/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",黃金翡翠台
 http://avd.iptviptv.site:9694/hls/916/index.m3u8
-#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="港澳台",纬来日本
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="港澳台",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="港澳台",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="港澳台",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="港澳台",緯來日本
 https://z88.ubtvfans.com/live/rx3/46/6a2df9ffb34621798752726fc514e9eb/index.m3u8
 #EXTINF:-1,tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港澳台",东森电影
 https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
