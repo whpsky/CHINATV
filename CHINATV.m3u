@@ -261,13 +261,13 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/ind
 http://47.102.200.34:18081/live/program/live/dsjc8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="百事通",欢笑剧场
 http://47.102.200.34:18081/live/program/live/hxjc8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="百事通新闻" tvg-name="百事通新闻" tvg-logo="https://epg.v1.mk/logo/百事通新闻.png" group-title="百事通",百事通新闻
+#EXTINF:-1,tvg-id="百事通新闻" tvg-name="新闻综合" tvg-logo="https://epg.v1.mk/logo/新闻综合.png" group-title="百事通",新闻综合
 http://47.102.200.34:18081/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="百事通都市" tvg-name="百事通都市" tvg-logo="https://epg.v1.mk/logo/百事通都市.png" group-title="百事通",百事通都市
+#EXTINF:-1,tvg-id="百事通都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="百事通",上海都市
 http://47.102.200.34:18081/live/program/live/dshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="百事通外语" tvg-name="百事通外语" tvg-logo="https://epg.v1.mk/logo/百事通外语.png" group-title="百事通",百事通外语
+#EXTINF:-1,tvg-id="百事通外语" tvg-name="上海外语" tvg-logo="https://epg.v1.mk/logo/上海外语.png" group-title="百事通",上海外语
 http://47.102.200.34:18081/live/program/live/icshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="百事通教育" tvg-name="百事通教育" tvg-logo="https://epg.v1.mk/logo/百事通教育.png" group-title="百事通",百事通教育
+#EXTINF:-1,tvg-id="百事通教育" tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="百事通",上海教育
 http://47.102.200.34:18081/live/program/live/setvhd/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="百事通",五星体育
 http://47.102.200.34:18081/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -275,7 +275,7 @@ http://47.102.200.34:18081/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 http://47.102.200.34:18081/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="百事通",魅力足球
 http://47.102.200.34:18081/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="百事通新视觉" tvg-name="百事通新视觉" tvg-logo="https://epg.v1.mk/logo/百事通新视觉.png" group-title="百事通",新视觉台
+#EXTINF:-1,tvg-id="百事通新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="百事通",新视觉台
 http://47.102.200.34:18081/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.v1.mk/logo/七彩戏剧.png" group-title="百事通",七彩戏剧
 http://47.102.200.34:18081/live/program/live/qcxjhd8m/8000000/mnf.m3u8
