@@ -141,10 +141,6 @@ rtmp://f13h.mine.nu/sat/tv701
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="港澳台",東森超視
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="港澳台",緯來日本
-https://z88.ubtvfans.com/live/rx3/46/6a2df9ffb34621798752726fc514e9eb/index.m3u8
-#EXTINF:-1,tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港澳台",东森电影
-https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
