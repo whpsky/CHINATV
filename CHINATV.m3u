@@ -23,6 +23,10 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288018
+#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="上海",上海教育
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288019
 #EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="上海",七彩戏剧
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海",东方影视
