@@ -79,6 +79,8 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="海外",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="海外",翡翠台(广电)
+https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="海外",V音乐台
 http://php.iptviptv.site/iptv.php?id=vyinyue
 #EXTINF:-1,tvg-id="hbo" tvg-name="hbo" tvg-logo="https://epg.v1.mk/logo/hbo.png" group-title="海外",HBO
