@@ -56,147 +56,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="上海",新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://php.iptviptv.site/iptv.php?id=wuxingtiyu32
-#EXTINF:-1,tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://epg.v1.mk/logo/新闻综合.png" group-title="上海",新闻综合
-http://php.iptviptv.site/iptv.php?id=xinwenzonghe41
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
-http://php.iptviptv.site/iptv.php?id=dongfangcaijing88
-#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://php.iptviptv.site/iptv.php?id=dycaijing
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市频道
-http://php.iptviptv.site/iptv.php?id=dushi
-#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://php.iptviptv.site/iptv.php?id=dfys1
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
-http://120.76.248.139/live/bfgd/4200000635.m3u8
+http://210.22.75.86:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1,tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="上海",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="海外",凤凰资询
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="海外",凤凰资询
-http://121.205.69.190:8848/rtp/239.61.2.183:9086
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="海外",凤凰资询
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="海外",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="海外",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="海外",凤凰香港
-http://121.205.69.190:8848/rtp/239.61.2.184:9092
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="海外",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="海外",凤凰香港
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="海外",翡翠台(广电)
-https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="海外",V音乐台
-http://php.iptviptv.site/iptv.php?id=vyinyue
-#EXTINF:-1,tvg-id="hbo" tvg-name="hbo" tvg-logo="https://epg.v1.mk/logo/hbo.png" group-title="海外",HBO
-http://php.iptviptv.site/iptv.php?id=HBO
-#EXTINF:-1,tvg-id="今日俄罗斯电视台" tvg-name="今日俄罗斯电视台" tvg-logo="https://epg.v1.mk/logo/今日俄罗斯电视台.png" group-title="海外",今日俄罗斯
-http://php.iptviptv.site/iptv.php?id=elsjr
-#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="海外",日本NHK
-http://php.iptviptv.site/iptv.php?id=nhk
-#EXTINF:-1,tvg-id="韩国娱乐KMTV" tvg-name="韩国娱乐KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐KMTV.png" group-title="海外",韩国KBS
-http://php.iptviptv.site/iptv.php?id=kbs
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="海外",翡翠台(广电)
-http://php.iptviptv.site/iptv.php?id=fctgd66
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="海外",明珠台
-http://php.iptviptv.site/iptv.php?id=mzt
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="海外",翡翠台(原版)
-http://php.iptviptv.site/iptv.php?id=fctyb841
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="海外",千禧经典台
-http://php.iptviptv.site/iptv.php?id=qianxi
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="海外",翡翠台4k
-http://php.iptviptv.site/iptv.php?id=fct4kcj
-#EXTINF:-1,tvg-id="animax" tvg-name="animax" tvg-logo="https://epg.v1.mk/logo/animax.png" group-title="海外",Animax
-http://php.iptviptv.site/iptv.php?id=animax
-#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="海外",美亚电影台
-http://php.iptviptv.site/iptv.php?id=meiya666
-#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="海外",TVB PLUS
-http://php.iptviptv.site/iptv.php?id=tvbsulp
-#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="海外",无线新闻台
-http://php.iptviptv.site/iptv.php?id=wuxianxwfeiwu
-#EXTINF:-1,tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://epg.v1.mk/logo/天映经典频道.png" group-title="海外",天映經典頻道
-http://php.iptviptv.site/iptv.php?id=tianying
-#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="海外",黃金翡翠台
-http://php.iptviptv.site/iptv.php?id=hjfct
-#EXTINF:-1,tvg-id="凤凰海外" tvg-name="凤凰海外" tvg-logo="https://epg.v1.mk/logo/凤凰海外.png" group-title="海外",凤凰海外
-http://php.iptviptv.site/iptv.php?id=fhxgwe
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="海外",凤凰中文
-http://php.iptviptv.site/iptv.php?id=fhzwwe
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="海外",凤凰资询
-http://php.iptviptv.site/iptv.php?id=fhzx
-#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="海外",黄金华剧台
-http://php.iptviptv.site/iptv.php?id=hjhjt
-#EXTINF:-1,tvg-id="TVB华语剧" tvg-name="TVB华语剧" tvg-logo="https://epg.v1.mk/logo/TVB华语剧.png" group-title="海外",华语剧台
-http://php.iptviptv.site/iptv.php?id=hyjt66
-#EXTINF:-1,tvg-id="TVB粤语片" tvg-name="TVB粤语片" tvg-logo="https://epg.v1.mk/logo/TVB粤语片.png" group-title="海外",粤语片台
-http://php.iptviptv.site/iptv.php?id=yueyupiantai
-#EXTINF:-1,tvg-id="神州新闻台" tvg-name="神州新闻台" tvg-logo="https://epg.v1.mk/logo/神州新闻台.png" group-title="海外",神州新闻台
-http://php.iptviptv.site/iptv.php?id=szxwt
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="海外",无线卫星新闻台
-http://php.iptviptv.site/iptv.php?id=wxwxxwt
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="海外",无线卫星亚洲台
-http://php.iptviptv.site/iptv.php?id=wxwxyzt
-#EXTINF:-1,tvg-id="半岛电视台英语" tvg-name="半岛电视台英语" tvg-logo="https://epg.v1.mk/logo/半岛电视台英语.png" group-title="海外",半岛电视台英语频道
-http://php.iptviptv.site/iptv.php?id=bddstyypd
-#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="海外",亚洲新闻台
-http://php.iptviptv.site/iptv.php?id=yzxwt
-#EXTINF:-1,tvg-id="TVB亚洲剧" tvg-name="TVB亚洲剧" tvg-logo="https://epg.v1.mk/logo/TVB亚洲剧.png" group-title="海外",亚洲剧台
-http://php.iptviptv.site/iptv.php?id=yzjt
-#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="海外",ZooMoo
-http://php.iptviptv.site/iptv.php?id=zoomoosb
-#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="海外",tvN
-http://php.iptviptv.site/iptv.php?id=tvnbs
-#EXTINF:-1,tvg-id="thrill" tvg-name="thrill" tvg-logo="https://epg.v1.mk/logo/thrill.png" group-title="海外",Thrill
-http://php.iptviptv.site/iptv.php?id=thrillbs1
-#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="海外",SUPER Kids Channel
-http://php.iptviptv.site/iptv.php?id=kidsch
-#EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="海外",ROCK 综艺娱乐
-http://php.iptviptv.site/iptv.php?id=rockzyyl
-#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="海外",ROCK Action
-http://php.iptviptv.site/iptv.php?id=rockacti
-#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="海外",PopC
-http://php.iptviptv.site/iptv.php?id=rock69
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.v1.mk/logo/NICKELODEON.png" group-title="海外",Nickelodeon
-http://php.iptviptv.site/iptv.php?id=nickelo
-#EXTINF:-1,tvg-id="NickJr" tvg-name="NickJr" tvg-logo="https://epg.v1.mk/logo/NickJr.png" group-title="海外",Nick Jr
-http://php.iptviptv.site/iptv.php?id=nickjr
-#EXTINF:-1,tvg-id="NHKWORLDJAPAN" tvg-name="NHKWORLDJAPAN" tvg-logo="https://epg.v1.mk/logo/NHKWORLDJAPAN.png" group-title="海外",NHK World-Japan
-http://php.iptviptv.site/iptv.php?id=nhkjapan
-#EXTINF:-1,tvg-id="MY101综合" tvg-name="MY101综合" tvg-logo="https://epg.v1.mk/logo/MY101综合.png" group-title="海外",my直播足球6台
-http://php.iptviptv.site/iptv.php?id=zq6t
-#EXTINF:-1,tvg-id="MY101综合" tvg-name="MY101综合" tvg-logo="https://epg.v1.mk/logo/MY101综合.png" group-title="海外",my直播足球5台
-http://php.iptviptv.site/iptv.php?id=zq5t
-#EXTINF:-1,tvg-id="MY101综合" tvg-name="MY101综合" tvg-logo="https://epg.v1.mk/logo/MY101综合.png" group-title="海外",my直播足球4台
-http://php.iptviptv.site/iptv.php?id=zq4t
-#EXTINF:-1,tvg-id="MY101综合" tvg-name="MY101综合" tvg-logo="https://epg.v1.mk/logo/MY101综合.png" group-title="海外",my直播足球3台
-http://php.iptviptv.site/iptv.php?id=zq3t
-#EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="海外",myTV SUPER FREE
-http://php.iptviptv.site/iptv.php?id=superfree
-#EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="海外",myTV SUPER 18台
-http://php.iptviptv.site/iptv.php?id=super18
-#EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.v1.mk/logo/MEZZOLIVEHD.png" group-title="海外",Mezzo Live HD
-http://php.iptviptv.site/iptv.php?id=mezzo
-#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="海外",Love Nature HD
-http://php.iptviptv.site/iptv.php?id=lovehd
-#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="海外",Love Nature 4K
-http://php.iptviptv.site/iptv.php?id=love4k
-#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://epg.v1.mk/logo/kix.png" group-title="海外",KIX
-http://php.iptviptv.site/iptv.php?id=kix
-#EXTINF:-1,tvg-id="GLOBAL-NEWS" tvg-name="GLOBAL-NEWS" tvg-logo="https://epg.v1.mk/logo/GLOBAL-NEWS.png" group-title="海外",Global Trekker
-http://php.iptviptv.site/iptv.php?id=global
-#EXTINF:-1,tvg-id="france24" tvg-name="france24" tvg-logo="https://epg.v1.mk/logo/france24.png" group-title="海外",France 24
-http://php.iptviptv.site/iptv.php?id=france67
-#EXTINF:-1,tvg-id="FASHIONONE" tvg-name="FASHIONONE" tvg-logo="https://epg.v1.mk/logo/FASHIONONE.png" group-title="海外",FashionBox
-http://php.iptviptv.site/iptv.php?id=fashionbox
-#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://epg.v1.mk/logo/DW Deutsch.png" group-title="海外",DW
-http://php.iptviptv.site/iptv.php?id=dw54
-#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="海外",AXN
-http://php.iptviptv.site/iptv.php?id=axnwd
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.v1.mk/logo/ARIRANGTV.png" group-title="海外",Arirang TV
-http://php.iptviptv.site/iptv.php?id=arirang
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中視
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",華視
@@ -263,16 +125,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 http://[2409:8087:1a0b:df::4017]/wh7f454c46tw1994395841_-1295136134/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="央视",女性时尚
-http://php.iptviptv.site/iptv.php?id=nxss
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="央视",世界地理
-http://php.iptviptv.site/iptv.php?id=sjdl
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://php.iptviptv.site/iptv.php?id=hjjc873
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
-http://php.iptviptv.site/iptv.php?id=fengyunjc87
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
-http://php.iptviptv.site/iptv.php?id=diyijuc
+
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="央视",CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="央视",CHC动作电影
