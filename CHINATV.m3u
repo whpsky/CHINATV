@@ -55,6 +55,20 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.v1.mk/logo/三立台湾台.png" group-title="港澳台",三立台灣台
+http://125.227.210.55:8160/VideoInput/play.ts 
+#EXTINF:-1,tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://epg.v1.mk/logo/BLOOMBERG.png" group-title="港澳台",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts 
+#EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港澳台",三立新聞
+http://125.227.210.55:8162/VideoInput/play.ts 
+#EXTINF:-1,tvg-id="bbcnew1" tvg-name="bbcnew1" tvg-logo="https://epg.v1.mk/logo/bbcnew1.png" group-title="港澳台",BBC new
+http://125.227.210.55:8165/VideoInput/play.ts 
+#EXTINF:-1,tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://epg.v1.mk/logo/CNN International.png" group-title="港澳台",CNN new
+http://125.227.210.55:8166/VideoInput/play.ts 
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新聞台
+http://125.227.210.55:8186/VideoInput/play.ts 
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="港澳台",TVBS HD
+http://125.227.210.55:8188/VideoInput/play.ts 
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中視
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",華視
