@@ -73,12 +73,9 @@ http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBJ2" tvg-name="TVBJ2" tvg-logo="https://epg.v1.mk/logo/TVBJ2.png" group-title="港澳台",TVBJ1综合美
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB新闻频美
-http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="港澳台",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1,tvg-id="香港面包台" tvg-name="香港面包台" tvg-logo="https://epg.v1.mk/logo/香港面包台.png" group-title="港澳台",香港面包
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
+
 
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="港澳台",中天新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv009
