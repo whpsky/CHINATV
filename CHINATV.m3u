@@ -71,8 +71,6 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="港澳台",Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="港澳台",Hoy 78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="港澳台",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="港澳台",PopC
@@ -127,10 +125,6 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1,tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.v1.mk/logo/龙华电影台.png" group-title="港澳台",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="港澳台",Now星影台
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港澳台",TVB 星河台
-http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 #EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="港澳台",viutv 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="港澳台",viutv6 96
